@@ -31,7 +31,7 @@ public class Main extends JFrame implements ActionListener{
     JMenuItem aboutProject,aboutDevelopers, exit;
     public static Main main;
     public Main(){
-        super("E-Learning System");
+        super("The Classroom Gadget");
         setSize(1280,720);
         setLocation(35,30);
         setLayout(new BorderLayout());
